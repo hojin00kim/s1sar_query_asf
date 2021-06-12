@@ -1,4 +1,4 @@
-# SAR Query Throuth NASA ASF Server
+# SAR Query To NASA ASF Server
 
 ### With this notebook, Sentinel-1 SAR can be queried and downloaded from NASA ASF server
 
